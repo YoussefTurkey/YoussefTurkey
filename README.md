@@ -1,8 +1,8 @@
 # Hi 👋, I'm Youssef Turkey
 > A passionate front-end developer from Egypt
 
-1. 🔭 I’m currently working as graphic designer
-2. 🌱 I’m currently learning Reactjs framework
+1. 🔭 I’m Junior Frontend Developer
+2. 🌱 I’m using Reactjs and Vue.js as framework
 3. 📫 How to reach me youssef.turkey11@gmail.com
 
 ## My Resume:
