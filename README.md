@@ -6,7 +6,7 @@
 3. 📫 How to reach me? >> youssef.turkey11@gmail.com
 
 ## My Resume:
-- :purple_square: https://youssefturkey.github.io/YoussefTurkey_CV/
+- :purple_square: https://youturkeycv.vercel.app/
 
 ### Connect with me:
 
